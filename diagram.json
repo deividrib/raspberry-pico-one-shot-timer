@@ -44,7 +44,7 @@
         "id": "led3",
         "top": 111.6,
         "left": -245.8,
-        "attrs": { "color": "yellow", "flip": "" }
+        "attrs": { "color": "blue", "flip": "" }
       },
       {
         "type": "wokwi-pushbutton",
